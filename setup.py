@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="log_ip",
-    version="0.0.1",
+    version="0.0.2",
     author="FrenchCommando",
     author_email="martialren@gmail.com",
     description="A script that dumps your IP into a log file",
